@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vidyashree Rayar
 
-🚀 AI and Computer Vision Engineer | AI Master's Student in Berlin | Passionate about Deep Learning & Real-world AI Applications  
+🚀 AI and Computer Vision Engineer | AI Master's Student in Berlin | Power BI Specialist |Passionate about Deep Learning & Real-world AI Applications  
 
 💡 I am driven by the projects in the following areas: 
 - Computer Vision (Image Segmentation, Object Detection, 2D and 3D Vision)  
@@ -18,7 +18,7 @@
 - 😀 **[Facial Expression Recognition with CBAM Attention](https://github.com/yourusername/fer-cbam)**  
    Enhanced emotion recognition using deep learning with Convolutional Block Attention Module (CBAM).
 
-  ---
+---
 
 ## 🛠 Tech Stack
 
@@ -29,12 +29,12 @@
 - **Data Visualization and BI:** MS Power BI, SAP Web Intellingence, Tableau
 - **Other:** Jupyter, VS Code
 
-  ---
+---
 
 ## 📫 Reach me
 
 - LinkedIn: [linkedin.com/in/vidyashreerayar](https://linkedin.com/in/vidyashreerayar)  
 - Email: vidyashreerayar325@gmail.com
 
-  ---
+---
 ✨ *“Building AI solutions that bridge research with real-world impact.”*
