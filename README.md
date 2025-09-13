@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vidyashree Rayar
 
-🚀 AI and Computer Vision Engineer | AI Master's Student in Berlin | Power BI Specialist |Passionate about Deep Learning & Real-world AI Applications  
+🚀 AI and ML Engineer | AI Master's Student in Berlin | Power BI Specialist |Passionate about Deep Learning & Real-world AI Applications  
 
 💡 I am driven by the projects in the following areas: 
 - Computer Vision (Image Segmentation, Object Detection, 2D and 3D Vision)  
