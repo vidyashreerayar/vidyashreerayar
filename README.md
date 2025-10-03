@@ -2,32 +2,31 @@
 
 🚀 AI and ML Engineer | AI Master's Student in Berlin | Power BI Specialist |Passionate about Deep Learning & Real-world AI Applications  
 
-💡 I am driven by the projects in the following areas: 
-- Computer Vision (Image Segmentation, Object Detection, 2D and 3D Vision)  
-- Deep Learning for Sustainable AI & Healthcare
-- Facial expression recognition ( Bridging the current research gaps and contributing to the advancement of FER models)
-- Geospatial AI (Satellite & Aerial Imagery Analysis)  
-
+💡Large Language Models (LLMs): domain-specific applications, fine-tuning, and prompt engineering
+💡Deep Learning for Sustainable AI & Healthcare
+💡Computer Vision: image segmentation, object detection, 2D and 3D vision
+💡Facial Expression Recognition: addressing research gaps and advancing FER models
+💡Geospatial AI: satellite and aerial imagery analysis
 ---
 
 ## 📂 Featured Projects
 
-- 🌞 **[Solar Panel Fit Estimation using Satellite Imagery](https://github.com/yourusername/solar-panel-fit-estimation)**  
-   Predicts rooftop solar panel fitting potential using satellite imagery and 3D rooftop geometry analysis.  
+**🤖 LLM-powered Retrieval-Augmented Generation (RAG) System
+Converts natural language questions into SPARQL queries and retrieves factual answers from Wikidata, showcasing explainable Q&A by combining semantic technologies with LLM flexibility.**
 
-- 😀 **[Facial Expression Recognition with CBAM Attention](https://github.com/yourusername/fer-cbam)**  
-   Enhanced emotion recognition using deep learning with Convolutional Block Attention Module (CBAM).
+**🛰️ LLM-driven Simulation (In Progress)
+Experiments with hybrid symbolic-neural AI by integrating sensor data, DAQ pipelines, and LLM-driven control for real-world intelligent system simulations.**
 
+**🌞 Solar Panel Fit Estimation using Satellite Imagery
+Predicts rooftop solar panel fitting potential using satellite imagery and 3D rooftop geometry analysis.**
 ---
 
 ## 🛠 Tech Stack
 
-- **Languages & Tools:** Python, Git, Linux  
-- **AI & ML Frameworks:** PyTorch, TensorFlow, Scikit-learn  
-- **Computer Vision:** OpenCV, TorchVision, Image Processing  
-- **Data Science:** Pandas, NumPy, Matplotlib
-- **Data Visualization and BI:** MS Power BI, SAP Web Intellingence, Tableau
-- **Other:** Jupyter, VS Code
+- Programming Languages: Python, SQL
+- AI & Machine Learning: Transformers (Hugging Face), Deep Learning, NLP, LLMs, RAG, Generative AI, Information Retrieval, Model Evaluation
+- Knowledge Graphs & Semantic Web: SPARQL, RDF, Ontologies, Knowledge Graphs
+- Tools & Frameworks: PyTorch, TensorFlow, LangChain, Power BI, ETL Automation, Data Warehousing
 
 ---
 
