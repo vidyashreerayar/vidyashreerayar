@@ -1,4 +1,9 @@
 # Hi👋  I am Vidyashree Rayar  
+## 👩‍💻 About Me  
+
+I am a Master's student in Artificial Intelligence at BTU Cottbus with experience in **LLMs, Knowledge Graphs, and Information Retrieval**.  
+My work spans **LLM-powered RAG systems, hybrid AI simulations, computer vision, and geospatial AI**.  
+I enjoy building explainable, scalable, and impactful AI solutions, bridging research with real-world applications.  
 
 ## 📂 Featured Projects  
 
