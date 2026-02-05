@@ -9,7 +9,7 @@
   
   [![Email](https://img.shields.io/badge/📧_vidya.rayar@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vidya.rayar@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidyashreerayar/)
-  [![HuggingFace](https://img.shields.io/badge/🤗_Spaces-FFD21E?style=flat-square&logoColor=black)](https://vidyashreerayar.github.io/portfolio/)
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF4088?style=flat-square&logoColor=white)](https://vidyashreerayar.github.io/portfolio/)
 
 </div>
 
