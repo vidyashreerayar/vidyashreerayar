@@ -1,35 +1,51 @@
-# Hi👋  I am Vidyashree Rayar  
-## 👩‍💻 About Me  
+<div align="center">
+  
+  # Vidyashree Rayar
+  ### AI Engineer • LLM Systems • Production-Ready RAG
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+enterprise+RAG+pipelines;Bridging+Knowledge+Graphs+%2B+Neural+Networks;Real-time+AI+control+systems;9%2B+years+shipping+production+code" />
 
-I am a Master's student in Artificial Intelligence at BTU Cottbus with experience in **LLMs, Knowledge Graphs, and Information Retrieval**.  
-My work spans **LLM-powered RAG systems, hybrid AI simulations, computer vision, and geospatial AI**.  
-I enjoy building explainable, scalable, and impactful AI solutions, bridging research with real-world applications.  
+  <br/>
+  
+  [![Email](https://img.shields.io/badge/📧_vidya.rayar@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vidya.rayar@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
+  [![HuggingFace](https://img.shields.io/badge/🤗_Spaces-FFD21E?style=flat-square&logoColor=black)](your-hf-url)
 
-## 📂 Featured Projects  
-
-- 🤖 **[LLM-powered Retrieval-Augmented Generation (RAG) System](https://github.com/yourusername/rag-system)**  
-   Converts natural language questions into SPARQL queries and retrieves factual answers from Wikidata, showcasing explainable Q&A by combining semantic technologies with LLM flexibility.  
-
-- 🛰️ **[LLM-driven Simulation (In Progress)](https://github.com/yourusername/llm-simulation)**  
-   Experiments with hybrid symbolic-neural AI by integrating sensor data, DAQ pipelines, and LLM-driven control for real-world intelligent system simulations.  
-
-- 🌞 **[Solar Panel Fit Estimation using Satellite Imagery](https://github.com/yourusername/solar-panel-fit-estimation)**  
-   Predicts rooftop solar panel fitting potential using satellite imagery and 3D rooftop geometry analysis.  
+</div>
 
 ---
 
-## 🛠️ Skills  
+## 🎯 Here's What I Do
+I build **production AI systems** that bridge symbolic reasoning (Knowledge Graphs, SPARQL) with neural networks (LLMs, RAG). Currently finishing my Master's thesis on **LLM-driven industrial control systems** at BTU Cottbus.
 
-- **Programming Languages:** Python, SQL  
-- **AI & Machine Learning:** Transformers (Hugging Face), Deep Learning, NLP, LLMs, RAG, Generative AI, Information Retrieval, Model Evaluation  
-- **Knowledge Graphs & Semantic Web:** SPARQL, RDF, Ontologies, Knowledge Graphs  
-- **Tools & Frameworks:** PyTorch, TensorFlow, LangChain, Power BI, ETL Automation, Data Warehousing  
+**Core stack:** Python • AI Agents • LangChain • RAG • HuggingFace • LLMs • PowerBI
 
 ---
 
-## 🌍 Links  
+## 🚀 My Recent Work
+| Project | What It Does | Stack |
+|---------|--------------|-------|
+| **[PDF-RAG Pipeline](link)** | Enterprise doc Q&A with semantic search | LangChain, ChromaDB, Gemini |
+| **[Tourist AI Agent](link)** | Tool-using LLM with real-time data | HuggingFace, Gradio |
+| **[LLM Industrial Control](link)** | Real-time C++/Python simulation | Ollama, Safety-critical AI |
 
-- 💼 [LinkedIn](https://linkedin.com/in/vidyashreerayar)  
-- 💻 [GitHub](https://github.com/yourusername)  
-- 🌐 [Portfolio](https://vidyashreerayar.github.io/portfolio)  
+---
 
+## 💡 Value Add
+- **Scalable data pipelines** (500k+ records, Airflow orchestrated)
+- **Production LLM systems** (RAG, agents, fine-tuning)
+- **Enterprise integration** (SAP → AWS → AI)
+- **Full-stack delivery** (backend, ML, visualization)
+
+---
+
+## 🤝 Let's Build Together
+**Dear Recruiters:** I'm open to AI/ML Engineer roles in Germany. 
+**Dear Collaborators:** Interested in RAG systems, industrial AI, or Knowledge Graph applications?
+
+📧 **vidya.rayar@gmail.com** — Let's talk.
+
+---
+<div align="center">
+  <sub>🎓 MSc AI @ BTU Cottbus • 💼 Ex-Wipro • 🌍 Based in Germany</sub>
+</div>
