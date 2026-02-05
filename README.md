@@ -8,8 +8,8 @@
   <br/>
   
   [![Email](https://img.shields.io/badge/📧_vidya.rayar@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vidya.rayar@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
-  [![HuggingFace](https://img.shields.io/badge/🤗_Spaces-FFD21E?style=flat-square&logoColor=black)](your-hf-url)
+  [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidyashreerayar/)
+  [![HuggingFace](https://img.shields.io/badge/🤗_Spaces-FFD21E?style=flat-square&logoColor=black)](https://vidyashreerayar.github.io/portfolio/)
 
 </div>
 
@@ -28,14 +28,6 @@ I build **production AI systems** that bridge symbolic reasoning (Knowledge Grap
 | **[PDF-RAG Pipeline](link)** | Enterprise doc Q&A with semantic search | LangChain, ChromaDB, Gemini |
 | **[Tourist AI Agent](link)** | Tool-using LLM with real-time data | HuggingFace, Gradio |
 | **[LLM Industrial Control](link)** | Real-time C++/Python simulation | Ollama, Safety-critical AI |
-
----
-
-## 💡 Value Add
-- **Scalable data pipelines** (500k+ records, Airflow orchestrated)
-- **Production LLM systems** (RAG, agents, fine-tuning)
-- **Enterprise integration** (SAP → AWS → AI)
-- **Full-stack delivery** (backend, ML, visualization)
 
 ---
 
